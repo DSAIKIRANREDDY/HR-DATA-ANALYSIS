@@ -47,15 +47,13 @@ The dataset is visualized in **Power BI** to generate meaningful reports and das
 ## 📸 Dashboard Previews  
 
 ### 🔹 Summary Dashboard  
-![Summary Dashboard](./Dashboard_Screenshots/summary.png)  
+![Summary Dashboard](summary.png)  
 
 ### 🔹 Overview Dashboard  
-![Overview Dashboard](./Dashboard_Screenshots/overview.png)  
+![Overview Dashboard](overview.png)  
 
 ### 🔹 Detailed Grid View  
-![Detailed View](./Dashboard_Screenshots/detailed.png)  
-
-> 💡 Rename the image files in the repo to match these names or update the paths above.  
+![Detailed View](detailview.png)  
 
 ---
 
